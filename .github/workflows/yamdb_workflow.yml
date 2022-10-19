@@ -1,12 +1,9 @@
-# 123
+# 1 23
 name: yamdb-app workflow
 
 
-on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+on: [push]
+  
 
 jobs:
   tests:
