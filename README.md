@@ -1,5 +1,7 @@
-![example workflow](github.com/RinatMukhaev/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=master&event=push)
-* ip-адрес проекта 178.154.202.96
+![example workflow](https://github.com/RinatMukhaev/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
+### ip-адрес проекта
+- 178.154.202.96
 ### Cтек технологий:
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat&logo=Python&logoColor=56C0C0&color=008080)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/-Django-464646?style=flat&logo=Django&logoColor=56C0C0&color=008080)](https://www.djangoproject.com/)
