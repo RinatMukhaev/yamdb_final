@@ -1,5 +1,5 @@
 # 1 2 3
-name: yamdb-app workflow
+name: yamdb_workflow
 
 push:
     branches: [ master ]
