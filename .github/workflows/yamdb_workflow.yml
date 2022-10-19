@@ -1,8 +1,10 @@
-# 1 23
-name: yamdb-app workflow
+# 1 2 3
+name: Django-app workflow
 
-
-on: [push]
+push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
   
 
 jobs:
@@ -25,6 +27,7 @@ jobs:
 
     - name: Test with flake8 and django tests
       run: |
+        pytest
         python -m flake8
         
 
