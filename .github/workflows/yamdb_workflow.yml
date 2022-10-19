@@ -2,7 +2,7 @@ name: yamdb-app workflow
 
 push:
     branches: [ master ]
-  pull_request:
+pull_request:
     branches: [ master ]
   
 
