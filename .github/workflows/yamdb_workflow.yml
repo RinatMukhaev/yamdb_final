@@ -1,5 +1,5 @@
 # 1 2 3
-name: Django-app workflow
+name: yamdb-app workflow
 
 push:
     branches: [ master ]
