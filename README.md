@@ -1,7 +1,7 @@
 ![example workflow](https://github.com/RinatMukhaev/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 ### Адрес проекта
-http://178.154.202.96:8000/
+http://178.154.202.96/admin/
 
 ### Cтек технологий:
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat&logo=Python&logoColor=56C0C0&color=008080)](https://www.python.org/)
