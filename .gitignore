@@ -145,6 +145,6 @@ dmypy.json
 
 .mypy_cache
 
-# папки со стати кой и медиа
+# папки со стати кой и ме диа
 posts/static/
 media/
