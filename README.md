@@ -1,7 +1,7 @@
 ![example workflow](https://github.com/RinatMukhaev/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
-### API документация
-http://127.0.0.1:8000/redoc
+### Адрес проекта
+http://178.154.202.96:8000/
 
 ### Cтек технологий:
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat&logo=Python&logoColor=56C0C0&color=008080)](https://www.python.org/)
